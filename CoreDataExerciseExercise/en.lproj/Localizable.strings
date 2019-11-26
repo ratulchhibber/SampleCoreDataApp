@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  CoreDataExercise
+
+  Created by Ratul Chhibber on 10/27/19.
+  Copyright © 2019 Ratul Chhibber. All rights reserved.
+*/
+
+"All Posts" = "All Posts";
+"Error" = "Error";
+"Ok" = "Ok";
+"Title:" = "Title:";
+"Selected Post Content" = "Selected Post Content";
+"The internet connection is unavailable" = "The internet connection is unavailable";
+"App is experiencing some difficulties, please try again later" = "App is experiencing some difficulties, please try again later";
