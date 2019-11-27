@@ -1,7 +1,7 @@
 Objective: 
 Make an app which-
 * Reads JSON from a publicly available REST API endpoint
-* Parses it and shows the contents in a table view or collection view
+* Parses it and shows the contents in a table view
 * Tapping on a table view item shows a detailed view of that item
 * Persists the contents of the JSON data locally, so if the app is used without an
 Internet connection, it will show previously downloaded content. If there is no internet
