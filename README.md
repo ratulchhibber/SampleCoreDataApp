@@ -17,3 +17,5 @@ Approach:
 Note:
 ** Compiled on latest Xcode 11.1
 ** Tested on iOS 13
+
+![Image of README](https://github.com/ratulchhibber/SampleCoreDataApp/blob/master/README.png)
